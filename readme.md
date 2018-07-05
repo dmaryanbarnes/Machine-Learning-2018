@@ -4,3 +4,4 @@
 * Chatbot - Chatbot about Chatbots.
 * Anotheir Project - Its not real
 * Python Basics Files
+* Python ML files (Titanic & Frozenlake)
