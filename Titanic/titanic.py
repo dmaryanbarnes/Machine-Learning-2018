@@ -13,8 +13,8 @@ for p in data:
     else:
         p[1] = 0
 
-# for x in data:
-#     print(x)
+for x in data:
+    print(x)
 
 net = tflearn.input_data(shape=[None, 6])
 net = tflearn.fully_connected(net, 32)
